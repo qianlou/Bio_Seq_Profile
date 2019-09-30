@@ -1,0 +1,3 @@
+# Bio_Seq_Profile
+Performance characterizations on the next-generation and third-generation genome sequencing. 
+This project is amlsot done and now is private unfortunately...
